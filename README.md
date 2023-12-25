@@ -1,8 +1,7 @@
 ## Apple web page for the product launch of iphone 12.
-![](Readme/client-side.JPG)
 
+![image](https://github.com/mishranaina/frontend-pro/assets/117846086/de6f8201-b1b2-4075-945c-932caee30322)
 
-# Project Name
 
 ## Overview
 
