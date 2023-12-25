@@ -1,15 +1,44 @@
-## 🍎— Responsive Apple Website Clone using only HTML & CSS - Progate New Year Bootcamp 2021 Team project.
+## Apple web page for the product launch of iphone 12.
 ![](Readme/client-side.JPG)
-Apple Website Clone using only HTML & CSS - Progate New year 2021 Bootcamp Project Team.
-Progate New Year Bootcamp 2021 Team project. We managed to finish the project in 3 days, i'm satisfied to see all of the members doing their job really well
 
-### To be declared "PASS", your Webpage must have 6 of this components:
 
-- Header ✔
-- Bagian Main ✔
-- Bagian Body ✔
-- Footer ✔
-- Setidaknya satu animasi ✔
-- Desain responsif untuk smartphone dan tablet ✔
+# Project Name
 
-finished in 3 days.
+## Overview
+
+Welcome to the Apple web page project! This project is a simple and responsive web page built using HTML, CSS, and JavaScript.
+## Features
+
+- **Responsive Design:** The web page is designed to be responsive and look great on various devices, including desktops, tablets, and mobile phones.
+
+- **Customizable:** Easily customize the content, colors, and styles to match your personal or project needs. The code is well-organized and commented to make customization straightforward.
+
+- **Modern Design:** The project follows modern design principles to provide a clean and visually appealing user interface.
+
+- **Contact Form:** A simple contact form is included with JavaScript validation. You can customize the form fields and integrate it with your preferred backend service.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/project-name.git
+   ```
+
+2. **Open the Project:**
+   Open the project folder in your preferred code editor.
+
+3. **Test Locally:**
+   Open the `index.html` file in a web browser to test the changes locally.
+
+4. **Deploy:**
+   Deploy the web page to your hosting provider.
+
+## Structure
+
+- `index.html`: The main HTML file containing the structure and content of the web page.
+- `styles.css`: The CSS file containing the styles for the web page.
+- `responsive.css` : The CSS file containing the styles for web page
+- `script.js`: The JavaScript file containing interactive elements and form validation.
+- `images/`: A folder containing image assets used in the web page.
+
+ 
